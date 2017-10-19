@@ -23,7 +23,7 @@ My clinet for this project is a public high school in NSW.
 
 The school would like to know which question they need to spend some additional time on to improve the Y9 Naplan score. and they want to identify thoes students at risk of not meeting the minimum standard, which is Band 8 in y9 naplan test. 
 
-For this project, I will focus on the numercy part only.
+For this project, I will focus on the numeracy part only.
 
 ## What is the customer requirements?
 
@@ -32,8 +32,6 @@ For this project, I will focus on the numercy part only.
 2. A way to predict which students won't meet the minimum standard.
 
 3. A way to predict what different students might need addition help with.
-
-I will focus on the numercy part only.
 
 
 ## Pre-processing

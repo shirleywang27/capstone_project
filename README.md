@@ -19,7 +19,7 @@ Students who don't meet the minimum standard in their year 9 NAPLAN will have to
 
 ## Customer
 
-My clinet for this project is a public high school in NSW.
+My client for this project is a public high school in NSW.
 
 The school would like to know which question they need to spend some additional time on to improve the Y9 Naplan score. and they want to identify thoes students at risk of not meeting the minimum standard, which is Band 8 in y9 naplan test. 
 
